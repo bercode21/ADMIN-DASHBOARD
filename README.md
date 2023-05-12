@@ -12,13 +12,13 @@ To install **BERCODER**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/bercode21/ADMIN-DASHBOARD.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/bercode21/ADMIN-DASHBOARD.git
 ```
 
 # Admin Dashboard | HTML CSS JavaScript 
